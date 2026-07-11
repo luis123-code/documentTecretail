@@ -1,41 +1,41 @@
 RUTAS DE ARCHIVOS MD - DOCUMENTACIÓN DE APIS TQL
 ================================================
 
-/docs/Documentación_APIs/index.md
+/Documentación_APIs/index.md
 
 
 MÓDULO DE LECTURA UNIFICADA (unified-select-external-laots)
 ===========================================================
 
-/docs/Documentación_APIs/unified-select-external-laots/index.md
+/Documentación_APIs/unified-select-external-laots/index.md
 
 Contrato de request
 -------------------
-/docs/Documentación_APIs/unified-select-external-laots/Contrato_de_request/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Contrato_de_request/groupBy/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Contrato_de_request/internalTableIds_y_externalTableIds/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Contrato_de_request/metrics/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Contrato_de_request/where/index.md
+/Documentación_APIs/unified-select-external-laots/Contrato_de_request/index.md
+/Documentación_APIs/unified-select-external-laots/Contrato_de_request/groupBy/index.md
+/Documentación_APIs/unified-select-external-laots/Contrato_de_request/internalTableIds_y_externalTableIds/index.md
+/Documentación_APIs/unified-select-external-laots/Contrato_de_request/metrics/index.md
+/Documentación_APIs/unified-select-external-laots/Contrato_de_request/where/index.md
 
 Funcionalidades
 ---------------
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/Consulta_de_[entidad]_con_limit_y_offset/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_de_estado_apuntando_a_la_tabla/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_estado(s)_desde_otra_tabla/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_genérica_de_tabla/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_estado_fallido/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_estado_pendientes_desde_otra_tabla/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_rango_de_fechas/index.md
-/docs/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultas_agregando_metricas/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/Consulta_de_[entidad]_con_limit_y_offset/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_de_estado_apuntando_a_la_tabla/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_estado(s)_desde_otra_tabla/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consulta_genérica_de_tabla/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_estado_fallido/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_estado_pendientes_desde_otra_tabla/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultar_rango_de_fechas/index.md
+/Documentación_APIs/unified-select-external-laots/Funcionalidades/consultas_agregando_metricas/index.md
 
 
 MÓDULO DE ESCRITURA UNIFICADA (unified-upsert)
 ==============================================
 
-/docs/Documentación_APIs/unified-upsert/index.md
+/Documentación_APIs/unified-upsert/index.md
 
 Operaciones
 -----------
-/docs/Documentación_APIs/unified-upsert/Insertar/index.md
-/docs/Documentación_APIs/unified-upsert/Actualizar/index.md
+/Documentación_APIs/unified-upsert/Insertar/index.md
+/Documentación_APIs/unified-upsert/Actualizar/index.md

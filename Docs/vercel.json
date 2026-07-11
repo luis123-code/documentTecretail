@@ -1,4 +1,7 @@
 {
+  "rewrites": [
+    { "source": "/docs/:path*", "destination": "/:path*" }
+  ],
   "headers": [
     {
       "source": "/(.*).md",
